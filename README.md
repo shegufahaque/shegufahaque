@@ -12,7 +12,7 @@ Cybersecurity professional with expertise in threat hunting, vulnerability manag
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://www.linkedin.com/in/shegufa-haque-anna-8a134a122/" />][linkedin]
+[LinkedIn](https://www.linkedin.com/in/shegufa-haque-anna-8a134a122/)
 
 
 [twitter]: https://twitter.com/___________
