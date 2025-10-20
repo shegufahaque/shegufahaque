@@ -3,9 +3,13 @@
 Cybersecurity professional with expertise in threat hunting, vulnerability management, incident response, SOC operations, risk assessment, and GRC. Skilled in Tenable, Splunk, IDS/IPS, SIEM, EDR. Experienced in IT asset management, secure network/server operations, and improving detection logic and overall cybersecurity posture. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-## ⚠️ Vulnerability Management Projects
+## 🛡️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/shegufahaque/Vulnerability-Management-Program-1)**
+
+## 🔒 DISA STIG Implementation for Security Hardening
+
+- **[DISA STIG Implementation](https://github.com/shegufahaque/Vulnerability-Mgmt-STIG/tree/main/STIGS)**
 
 
 <hr/>
