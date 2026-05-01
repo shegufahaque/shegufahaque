@@ -15,11 +15,11 @@ Cybersecurity professional with expertise in detection and threat hunting, incid
 
 ## 🛡️ Vulnerability Management Projects
 
-**[Vulnerability Management Program Implementation](https://github.com/shegufahaque/Vulnerability-Management-Program-1)**
+[Vulnerability Management Program Implementation](https://github.com/shegufahaque/Vulnerability-Management-Program-1)
 
 ## 🔒 DISA STIG Implementation for Security Hardening
 
-**[DISA STIG Implementation](https://github.com/shegufahaque/Vulnerability-Mgmt-STIG/tree/main/STIGS)**
+[DISA STIG Implementation](https://github.com/shegufahaque/Vulnerability-Mgmt-STIG/tree/main/STIGS)
 
 <hr/>
 
